@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho mvp	</title>
-	<atom:link href="http://localhost/myproject/wordpress/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mvphuc2103.github.io/mywordpress-mvp</link>
+	Các phản hồi luận về: Top phòng khách hiện đại của năm 2022	</title>
+	<atom:link href="http://localhost/myproject/wordpress/index.php/2022/10/18/top-phong-khach-hien-dai-cua-nam-2022/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mvphuc2103.github.io/mywordpress-mvp/index.php/2022/10/18/top-phong-khach-hien-dai-cua-nam-2022/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 18 Oct 2022 03:50:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
