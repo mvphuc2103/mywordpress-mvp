@@ -103,7 +103,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://mvphuc2103.github.io/mywordpress-mvp/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"a412f5406a"};
+var userProfileL10n = {"user_id":"0","nonce":"964d6709ec"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">( function( domain, translations ) {
